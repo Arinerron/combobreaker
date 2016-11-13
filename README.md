@@ -39,7 +39,7 @@ By [@SamyKamkar](https://twitter.com/samykamkar)
 **$7**: Instead of the EasyDriver, I upgraded to a smaller, yet more powerful stepper driver that can go up to 1 amp (1000mA).
 
 ### [Stepper Motor](http://amzn.to/1FfLUQG)
-**$30**: You can use a normal stepper motor for the "simpler" version of the Combo Breaker build, however if you're working on creating the more advanced version, you'll need a double-shaft stepper motor like I liste below.
+**$30**: You can use a normal stepper motor for the "simpler" version of the Combo Breaker build, however if you're working on creating the more advanced version, you'll need a double-shaft stepper motor like I listed below.
 
 ### or [Double Shaft Stepper Motor](http://www.phidgets.com/products.php?product_id=3320)
 **$16**: This double shaft stepper motor allows you to build the more advanced Combo Breaker while employing an optical rotary encoder on the back to detect the position of the stepper when the dial stops turning (which is part of the exploit employed).
